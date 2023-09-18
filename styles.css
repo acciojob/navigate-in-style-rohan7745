@@ -3,9 +3,11 @@
 	background-color:#D3D3D3;
 	padding:10px;
 }
+ul{
+	display: flex;
+}
 
  li{
-	display: flex;
 	display:inline;
 	margin-right: 1rem;
 	list-style:none;
